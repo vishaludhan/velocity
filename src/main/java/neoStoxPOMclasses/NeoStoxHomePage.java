@@ -22,6 +22,15 @@ public class NeoStoxHomePage
     	  Reporter.log("getting actual username", true);
     	  return ActUserName;
     	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
       }
       
 	 public String getBalance()
