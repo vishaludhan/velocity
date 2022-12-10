@@ -38,7 +38,6 @@ public class NeoStoxHomePage
 		 String bal = balance.getText();
 		 Reporter.log("getting balance", true);
 		 return bal;
-		 
 	 }
      
       
@@ -49,8 +48,9 @@ public class NeoStoxHomePage
     
     	  log.click();
     	  Reporter.log("loging out", true);
-    	  Thread.sleep(100);
     	  
       }
 }     
+    
+
     
